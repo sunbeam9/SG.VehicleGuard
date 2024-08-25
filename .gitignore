@@ -1,0 +1,8 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+SG.VehicleGuard.sln.DotSettings.user
+/SG.VehicleGuard.sln.DotSettings.user
+.idea/
